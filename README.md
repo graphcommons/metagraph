@@ -11,3 +11,6 @@ $ gem install graphcommons
 $ ruby metagraph.rb
 ```
 
+## TODO
+Implement skipping search results to get over the limit of 20 items.
+
