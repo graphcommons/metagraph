@@ -6,3 +6,8 @@ Create graphs out of graphs. Built as an example for [Graphcommons Ruby API](htt
 $ gem install graphcommons
 ```
 
+## Usage
+```
+$ ruby metagraph.rb
+```
+
